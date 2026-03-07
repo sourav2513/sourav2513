@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Hexaware Technology
+- 🔭 I’m currently working on ... YsecIt Software
 - 🌱 I’m currently learning ... FrontEnd and BackEnd
 - 👯 I’m looking to collaborate on ... Github and making real time project
 - 🤔 I’m looking for help with ... other with coding and deploying
